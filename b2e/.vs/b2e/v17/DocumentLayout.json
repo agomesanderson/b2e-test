@@ -1,0 +1,856 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2570F247-A799-464D-841A-D83077A2D341}|b2e.Api\\b2e.Api.csproj|c:\\users\\anderson\\onedrive\\workspace\\b2e-test\\b2e\\b2e.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2570F247-A799-464D-841A-D83077A2D341}|b2e.Api\\b2e.Api.csproj|solutionrelative:b2e.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2570F247-A799-464D-841A-D83077A2D341}|b2e.Api\\b2e.Api.csproj|c:\\users\\anderson\\onedrive\\workspace\\b2e-test\\b2e\\b2e.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2570F247-A799-464D-841A-D83077A2D341}|b2e.Api\\b2e.Api.csproj|solutionrelative:b2e.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A3F2E1F-70CF-4ECD-A330-5BD20E5C7F3C}|b2e.App\\b2e.App.csproj|c:\\users\\anderson\\onedrive\\workspace\\b2e-test\\b2e\\b2e.app\\services\\products\\updateproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A3F2E1F-70CF-4ECD-A330-5BD20E5C7F3C}|b2e.App\\b2e.App.csproj|solutionrelative:b2e.app\\services\\products\\updateproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F944949A-C0CF-4962-9606-E4A5387ECED8}|b2e.Domain\\b2e.Domain.csproj|c:\\users\\anderson\\onedrive\\workspace\\b2e-test\\b2e\\b2e.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F944949A-C0CF-4962-9606-E4A5387ECED8}|b2e.Domain\\b2e.Domain.csproj|solutionrelative:b2e.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2570F247-A799-464D-841A-D83077A2D341}|b2e.Api\\b2e.Api.csproj|c:\\users\\anderson\\onedrive\\workspace\\b2e-test\\b2e\\b2e.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2570F247-A799-464D-841A-D83077A2D341}|b2e.Api\\b2e.Api.csproj|solutionrelative:b2e.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2570F247-A799-464D-841A-D83077A2D341}|b2e.Api\\b2e.Api.csproj|c:\\users\\anderson\\onedrive\\workspace\\b2e-test\\b2e\\b2e.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2570F247-A799-464D-841A-D83077A2D341}|b2e.Api\\b2e.Api.csproj|solutionrelative:b2e.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2570F247-A799-464D-841A-D83077A2D341}|b2e.Api\\b2e.Api.csproj|c:\\users\\anderson\\onedrive\\workspace\\b2e-test\\b2e\\b2e.api\\configurations\\adddependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2570F247-A799-464D-841A-D83077A2D341}|b2e.Api\\b2e.Api.csproj|solutionrelative:b2e.api\\configurations\\adddependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A3F2E1F-70CF-4ECD-A330-5BD20E5C7F3C}|b2e.App\\b2e.App.csproj|c:\\users\\anderson\\onedrive\\workspace\\b2e-test\\b2e\\b2e.app\\services\\products\\getproductsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A3F2E1F-70CF-4ECD-A330-5BD20E5C7F3C}|b2e.App\\b2e.App.csproj|solutionrelative:b2e.app\\services\\products\\getproductsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C930302-3E12-46A7-AA38-CEA11709F84E}|b2e.Infra\\b2e.Infra.csproj|c:\\users\\anderson\\onedrive\\workspace\\b2e-test\\b2e\\b2e.infra\\database\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C930302-3E12-46A7-AA38-CEA11709F84E}|b2e.Infra\\b2e.Infra.csproj|solutionrelative:b2e.infra\\database\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A3F2E1F-70CF-4ECD-A330-5BD20E5C7F3C}|b2e.App\\b2e.App.csproj|c:\\users\\anderson\\onedrive\\workspace\\b2e-test\\b2e\\b2e.app\\services\\interfaces\\products\\igetproductsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A3F2E1F-70CF-4ECD-A330-5BD20E5C7F3C}|b2e.App\\b2e.App.csproj|solutionrelative:b2e.app\\services\\interfaces\\products\\igetproductsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A3F2E1F-70CF-4ECD-A330-5BD20E5C7F3C}|b2e.App\\b2e.App.csproj|c:\\users\\anderson\\onedrive\\workspace\\b2e-test\\b2e\\b2e.app\\services\\products\\deleteproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A3F2E1F-70CF-4ECD-A330-5BD20E5C7F3C}|b2e.App\\b2e.App.csproj|solutionrelative:b2e.app\\services\\products\\deleteproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A3F2E1F-70CF-4ECD-A330-5BD20E5C7F3C}|b2e.App\\b2e.App.csproj|c:\\users\\anderson\\onedrive\\workspace\\b2e-test\\b2e\\b2e.app\\services\\interfaces\\products\\ideleteproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A3F2E1F-70CF-4ECD-A330-5BD20E5C7F3C}|b2e.App\\b2e.App.csproj|solutionrelative:b2e.app\\services\\interfaces\\products\\ideleteproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A3F2E1F-70CF-4ECD-A330-5BD20E5C7F3C}|b2e.App\\b2e.App.csproj|c:\\users\\anderson\\onedrive\\workspace\\b2e-test\\b2e\\b2e.app\\contracts\\responses\\products\\deleteproductreponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A3F2E1F-70CF-4ECD-A330-5BD20E5C7F3C}|b2e.App\\b2e.App.csproj|solutionrelative:b2e.app\\contracts\\responses\\products\\deleteproductreponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C930302-3E12-46A7-AA38-CEA11709F84E}|b2e.Infra\\b2e.Infra.csproj|c:\\users\\anderson\\onedrive\\workspace\\b2e-test\\b2e\\b2e.infra\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C930302-3E12-46A7-AA38-CEA11709F84E}|b2e.Infra\\b2e.Infra.csproj|solutionrelative:b2e.infra\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C930302-3E12-46A7-AA38-CEA11709F84E}|b2e.Infra\\b2e.Infra.csproj|c:\\users\\anderson\\onedrive\\workspace\\b2e-test\\b2e\\b2e.infra\\database\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C930302-3E12-46A7-AA38-CEA11709F84E}|b2e.Infra\\b2e.Infra.csproj|solutionrelative:b2e.infra\\database\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C930302-3E12-46A7-AA38-CEA11709F84E}|b2e.Infra\\b2e.Infra.csproj|c:\\users\\anderson\\onedrive\\workspace\\b2e-test\\b2e\\b2e.infra\\database\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C930302-3E12-46A7-AA38-CEA11709F84E}|b2e.Infra\\b2e.Infra.csproj|solutionrelative:b2e.infra\\database\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A3F2E1F-70CF-4ECD-A330-5BD20E5C7F3C}|b2e.App\\b2e.App.csproj|c:\\users\\anderson\\onedrive\\workspace\\b2e-test\\b2e\\b2e.app\\services\\users\\loginuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A3F2E1F-70CF-4ECD-A330-5BD20E5C7F3C}|b2e.App\\b2e.App.csproj|solutionrelative:b2e.app\\services\\users\\loginuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A3F2E1F-70CF-4ECD-A330-5BD20E5C7F3C}|b2e.App\\b2e.App.csproj|c:\\users\\anderson\\onedrive\\workspace\\b2e-test\\b2e\\b2e.app\\services\\interfaces\\products\\icreateproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A3F2E1F-70CF-4ECD-A330-5BD20E5C7F3C}|b2e.App\\b2e.App.csproj|solutionrelative:b2e.app\\services\\interfaces\\products\\icreateproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A3F2E1F-70CF-4ECD-A330-5BD20E5C7F3C}|b2e.App\\b2e.App.csproj|c:\\users\\anderson\\onedrive\\workspace\\b2e-test\\b2e\\b2e.app\\services\\interfaces\\products\\iupdateproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A3F2E1F-70CF-4ECD-A330-5BD20E5C7F3C}|b2e.App\\b2e.App.csproj|solutionrelative:b2e.app\\services\\interfaces\\products\\iupdateproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A3F2E1F-70CF-4ECD-A330-5BD20E5C7F3C}|b2e.App\\b2e.App.csproj|c:\\users\\anderson\\onedrive\\workspace\\b2e-test\\b2e\\b2e.app\\b2e.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0A3F2E1F-70CF-4ECD-A330-5BD20E5C7F3C}|b2e.App\\b2e.App.csproj|solutionrelative:b2e.app\\b2e.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A3F2E1F-70CF-4ECD-A330-5BD20E5C7F3C}|b2e.App\\b2e.App.csproj|c:\\users\\anderson\\onedrive\\workspace\\b2e-test\\b2e\\b2e.app\\contracts\\responses\\users\\loginuserreponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A3F2E1F-70CF-4ECD-A330-5BD20E5C7F3C}|b2e.App\\b2e.App.csproj|solutionrelative:b2e.app\\contracts\\responses\\users\\loginuserreponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A3F2E1F-70CF-4ECD-A330-5BD20E5C7F3C}|b2e.App\\b2e.App.csproj|c:\\users\\anderson\\onedrive\\workspace\\b2e-test\\b2e\\b2e.app\\services\\interfaces\\users\\iloginuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A3F2E1F-70CF-4ECD-A330-5BD20E5C7F3C}|b2e.App\\b2e.App.csproj|solutionrelative:b2e.app\\services\\interfaces\\users\\iloginuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C930302-3E12-46A7-AA38-CEA11709F84E}|b2e.Infra\\b2e.Infra.csproj|c:\\users\\anderson\\onedrive\\workspace\\b2e-test\\b2e\\b2e.infra\\migrations\\20250407140228_seeddefaultuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C930302-3E12-46A7-AA38-CEA11709F84E}|b2e.Infra\\b2e.Infra.csproj|solutionrelative:b2e.infra\\migrations\\20250407140228_seeddefaultuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2570F247-A799-464D-841A-D83077A2D341}|b2e.Api\\b2e.Api.csproj|c:\\users\\anderson\\onedrive\\workspace\\b2e-test\\b2e\\b2e.api\\configurations\\addswagger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2570F247-A799-464D-841A-D83077A2D341}|b2e.Api\\b2e.Api.csproj|solutionrelative:b2e.api\\configurations\\addswagger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2570F247-A799-464D-841A-D83077A2D341}|b2e.Api\\b2e.Api.csproj|c:\\users\\anderson\\onedrive\\workspace\\b2e-test\\b2e\\b2e.api\\b2e.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2570F247-A799-464D-841A-D83077A2D341}|b2e.Api\\b2e.Api.csproj|solutionrelative:b2e.api\\b2e.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2570F247-A799-464D-841A-D83077A2D341}|b2e.Api\\b2e.Api.csproj|c:\\users\\anderson\\onedrive\\workspace\\b2e-test\\b2e\\b2e.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2570F247-A799-464D-841A-D83077A2D341}|b2e.Api\\b2e.Api.csproj|solutionrelative:b2e.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2570F247-A799-464D-841A-D83077A2D341}|b2e.Api\\b2e.Api.csproj|c:\\users\\anderson\\onedrive\\workspace\\b2e-test\\b2e\\b2e.api\\configurations\\addmigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2570F247-A799-464D-841A-D83077A2D341}|b2e.Api\\b2e.Api.csproj|solutionrelative:b2e.api\\configurations\\addmigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2570F247-A799-464D-841A-D83077A2D341}|b2e.Api\\b2e.Api.csproj|c:\\users\\anderson\\onedrive\\workspace\\b2e-test\\b2e\\b2e.api\\configurations\\adddatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2570F247-A799-464D-841A-D83077A2D341}|b2e.Api\\b2e.Api.csproj|solutionrelative:b2e.api\\configurations\\adddatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C930302-3E12-46A7-AA38-CEA11709F84E}|b2e.Infra\\b2e.Infra.csproj|c:\\users\\anderson\\onedrive\\workspace\\b2e-test\\b2e\\b2e.infra\\b2e.infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5C930302-3E12-46A7-AA38-CEA11709F84E}|b2e.Infra\\b2e.Infra.csproj|solutionrelative:b2e.infra\\b2e.infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F944949A-C0CF-4962-9606-E4A5387ECED8}|b2e.Domain\\b2e.Domain.csproj|c:\\users\\anderson\\onedrive\\workspace\\b2e-test\\b2e\\b2e.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F944949A-C0CF-4962-9606-E4A5387ECED8}|b2e.Domain\\b2e.Domain.csproj|solutionrelative:b2e.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C9C900-6710-495D-814B-E94FB43FE6A1}|b2e.Shared\\b2e.Shared.csproj|c:\\users\\anderson\\onedrive\\workspace\\b2e-test\\b2e\\b2e.shared\\constants\\errorcodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C9C900-6710-495D-814B-E94FB43FE6A1}|b2e.Shared\\b2e.Shared.csproj|solutionrelative:b2e.shared\\constants\\errorcodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C9C900-6710-495D-814B-E94FB43FE6A1}|b2e.Shared\\b2e.Shared.csproj|c:\\users\\anderson\\onedrive\\workspace\\b2e-test\\b2e\\b2e.shared\\extensions\\resultextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C9C900-6710-495D-814B-E94FB43FE6A1}|b2e.Shared\\b2e.Shared.csproj|solutionrelative:b2e.shared\\extensions\\resultextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A3F2E1F-70CF-4ECD-A330-5BD20E5C7F3C}|b2e.App\\b2e.App.csproj|c:\\users\\anderson\\onedrive\\workspace\\b2e-test\\b2e\\b2e.app\\services\\errors\\userforbiddenerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A3F2E1F-70CF-4ECD-A330-5BD20E5C7F3C}|b2e.App\\b2e.App.csproj|solutionrelative:b2e.app\\services\\errors\\userforbiddenerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A3F2E1F-70CF-4ECD-A330-5BD20E5C7F3C}|b2e.App\\b2e.App.csproj|c:\\users\\anderson\\onedrive\\workspace\\b2e-test\\b2e\\b2e.app\\services\\errors\\notfounderror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A3F2E1F-70CF-4ECD-A330-5BD20E5C7F3C}|b2e.App\\b2e.App.csproj|solutionrelative:b2e.app\\services\\errors\\notfounderror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C930302-3E12-46A7-AA38-CEA11709F84E}|b2e.Infra\\b2e.Infra.csproj|c:\\users\\anderson\\onedrive\\workspace\\b2e-test\\b2e\\b2e.infra\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C930302-3E12-46A7-AA38-CEA11709F84E}|b2e.Infra\\b2e.Infra.csproj|solutionrelative:b2e.infra\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C930302-3E12-46A7-AA38-CEA11709F84E}|b2e.Infra\\b2e.Infra.csproj|c:\\users\\anderson\\onedrive\\workspace\\b2e-test\\b2e\\b2e.infra\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C930302-3E12-46A7-AA38-CEA11709F84E}|b2e.Infra\\b2e.Infra.csproj|solutionrelative:b2e.infra\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A3F2E1F-70CF-4ECD-A330-5BD20E5C7F3C}|b2e.App\\b2e.App.csproj|c:\\users\\anderson\\onedrive\\workspace\\b2e-test\\b2e\\b2e.app\\contracts\\requests\\users\\loginuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A3F2E1F-70CF-4ECD-A330-5BD20E5C7F3C}|b2e.App\\b2e.App.csproj|solutionrelative:b2e.app\\contracts\\requests\\users\\loginuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C930302-3E12-46A7-AA38-CEA11709F84E}|b2e.Infra\\b2e.Infra.csproj|c:\\users\\anderson\\onedrive\\workspace\\b2e-test\\b2e\\b2e.infra\\migrations\\20250406150943_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C930302-3E12-46A7-AA38-CEA11709F84E}|b2e.Infra\\b2e.Infra.csproj|solutionrelative:b2e.infra\\migrations\\20250406150943_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2570F247-A799-464D-841A-D83077A2D341}|b2e.Api\\b2e.Api.csproj|c:\\users\\anderson\\onedrive\\workspace\\b2e-test\\b2e\\b2e.api\\configurations\\addapiversioning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2570F247-A799-464D-841A-D83077A2D341}|b2e.Api\\b2e.Api.csproj|solutionrelative:b2e.api\\configurations\\addapiversioning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F944949A-C0CF-4962-9606-E4A5387ECED8}|b2e.Domain\\b2e.Domain.csproj|c:\\users\\anderson\\onedrive\\workspace\\b2e-test\\b2e\\b2e.domain\\b2e.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F944949A-C0CF-4962-9606-E4A5387ECED8}|b2e.Domain\\b2e.Domain.csproj|solutionrelative:b2e.domain\\b2e.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C930302-3E12-46A7-AA38-CEA11709F84E}|b2e.Infra\\b2e.Infra.csproj|c:\\users\\anderson\\onedrive\\workspace\\b2e-test\\b2e\\b2e.infra\\database\\b2econtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C930302-3E12-46A7-AA38-CEA11709F84E}|b2e.Infra\\b2e.Infra.csproj|solutionrelative:b2e.infra\\database\\b2econtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C930302-3E12-46A7-AA38-CEA11709F84E}|b2e.Infra\\b2e.Infra.csproj|c:\\users\\anderson\\onedrive\\workspace\\b2e-test\\b2e\\b2e.infra\\database\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C930302-3E12-46A7-AA38-CEA11709F84E}|b2e.Infra\\b2e.Infra.csproj|solutionrelative:b2e.infra\\database\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C930302-3E12-46A7-AA38-CEA11709F84E}|b2e.Infra\\b2e.Infra.csproj|c:\\users\\anderson\\onedrive\\workspace\\b2e-test\\b2e\\b2e.infra\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C930302-3E12-46A7-AA38-CEA11709F84E}|b2e.Infra\\b2e.Infra.csproj|solutionrelative:b2e.infra\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C9C900-6710-495D-814B-E94FB43FE6A1}|b2e.Shared\\b2e.Shared.csproj|c:\\users\\anderson\\onedrive\\workspace\\b2e-test\\b2e\\b2e.shared\\extensions\\optionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C9C900-6710-495D-814B-E94FB43FE6A1}|b2e.Shared\\b2e.Shared.csproj|solutionrelative:b2e.shared\\extensions\\optionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C9C900-6710-495D-814B-E94FB43FE6A1}|b2e.Shared\\b2e.Shared.csproj|c:\\users\\anderson\\onedrive\\workspace\\b2e-test\\b2e\\b2e.shared\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C9C900-6710-495D-814B-E94FB43FE6A1}|b2e.Shared\\b2e.Shared.csproj|solutionrelative:b2e.shared\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F944949A-C0CF-4962-9606-E4A5387ECED8}|b2e.Domain\\b2e.Domain.csproj|c:\\users\\anderson\\onedrive\\workspace\\b2e-test\\b2e\\b2e.domain\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F944949A-C0CF-4962-9606-E4A5387ECED8}|b2e.Domain\\b2e.Domain.csproj|solutionrelative:b2e.domain\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e\\b2e.Api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:b2e\\b2e.Api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e\\Configurations\\AddDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:b2e\\Configurations\\AddDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e\\Configurations\\AddMigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:b2e\\Configurations\\AddMigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e\\Configurations\\AddDependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:b2e\\Configurations\\AddDependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:b2e\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddDependencies.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Api\\Configurations\\AddDependencies.cs",
+              "RelativeDocumentMoniker": "b2e.Api\\Configurations\\AddDependencies.cs",
+              "ToolTip": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Api\\Configurations\\AddDependencies.cs",
+              "RelativeToolTip": "b2e.Api\\Configurations\\AddDependencies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:57:36.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Api\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "b2e.Api\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Api\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "b2e.Api\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwDwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:52:11.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetProductsService.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.App\\Services\\Products\\GetProductsService.cs",
+              "RelativeDocumentMoniker": "b2e.App\\Services\\Products\\GetProductsService.cs",
+              "ToolTip": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.App\\Services\\Products\\GetProductsService.cs",
+              "RelativeToolTip": "b2e.App\\Services\\Products\\GetProductsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:48:00.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IGetProductsService.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.App\\Services\\Interfaces\\Products\\IGetProductsService.cs",
+              "RelativeDocumentMoniker": "b2e.App\\Services\\Interfaces\\Products\\IGetProductsService.cs",
+              "ToolTip": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.App\\Services\\Interfaces\\Products\\IGetProductsService.cs",
+              "RelativeToolTip": "b2e.App\\Services\\Interfaces\\Products\\IGetProductsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:47:54.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IDeleteProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.App\\Services\\Interfaces\\Products\\IDeleteProductService.cs",
+              "RelativeDocumentMoniker": "b2e.App\\Services\\Interfaces\\Products\\IDeleteProductService.cs",
+              "ToolTip": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.App\\Services\\Interfaces\\Products\\IDeleteProductService.cs",
+              "RelativeToolTip": "b2e.App\\Services\\Interfaces\\Products\\IDeleteProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:44:56.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DeleteProductReponse.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.App\\Contracts\\Responses\\Products\\DeleteProductReponse.cs",
+              "RelativeDocumentMoniker": "b2e.App\\Contracts\\Responses\\Products\\DeleteProductReponse.cs",
+              "ToolTip": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.App\\Contracts\\Responses\\Products\\DeleteProductReponse.cs",
+              "RelativeToolTip": "b2e.App\\Contracts\\Responses\\Products\\DeleteProductReponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:44:25.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeleteProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.App\\Services\\Products\\DeleteProductService.cs",
+              "RelativeDocumentMoniker": "b2e.App\\Services\\Products\\DeleteProductService.cs",
+              "ToolTip": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.App\\Services\\Products\\DeleteProductService.cs",
+              "RelativeToolTip": "b2e.App\\Services\\Products\\DeleteProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:42:10.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.App\\Services\\Products\\UpdateProductService.cs",
+              "RelativeDocumentMoniker": "b2e.App\\Services\\Products\\UpdateProductService.cs",
+              "ToolTip": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.App\\Services\\Products\\UpdateProductService.cs",
+              "RelativeToolTip": "b2e.App\\Services\\Products\\UpdateProductService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAtwC8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:35:52.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IUpdateProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.App\\Services\\Interfaces\\Products\\IUpdateProductService.cs",
+              "RelativeDocumentMoniker": "b2e.App\\Services\\Interfaces\\Products\\IUpdateProductService.cs",
+              "ToolTip": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.App\\Services\\Interfaces\\Products\\IUpdateProductService.cs",
+              "RelativeToolTip": "b2e.App\\Services\\Interfaces\\Products\\IUpdateProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:35:36.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "b2e.App",
+              "DocumentMoniker": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.App\\b2e.App.csproj",
+              "RelativeDocumentMoniker": "b2e.App\\b2e.App.csproj",
+              "ToolTip": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.App\\b2e.App.csproj",
+              "RelativeToolTip": "b2e.App\\b2e.App.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-07T14:35:34.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICreateProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.App\\Services\\Interfaces\\Products\\ICreateProductService.cs",
+              "RelativeDocumentMoniker": "b2e.App\\Services\\Interfaces\\Products\\ICreateProductService.cs",
+              "ToolTip": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.App\\Services\\Interfaces\\Products\\ICreateProductService.cs",
+              "RelativeToolTip": "b2e.App\\Services\\Interfaces\\Products\\ICreateProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:08:17.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250407140228_SeedDefaultUser.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Infra\\Migrations\\20250407140228_SeedDefaultUser.cs",
+              "RelativeDocumentMoniker": "b2e.Infra\\Migrations\\20250407140228_SeedDefaultUser.cs",
+              "ToolTip": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Infra\\Migrations\\20250407140228_SeedDefaultUser.cs",
+              "RelativeToolTip": "b2e.Infra\\Migrations\\20250407140228_SeedDefaultUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:02:54.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "b2e.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Api\\b2e.Api.csproj",
+              "RelativeDocumentMoniker": "b2e.Api\\b2e.Api.csproj",
+              "ToolTip": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Api\\b2e.Api.csproj",
+              "RelativeToolTip": "b2e.Api\\b2e.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-07T12:41:22.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AddSwagger.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Api\\Configurations\\AddSwagger.cs",
+              "RelativeDocumentMoniker": "b2e.Api\\Configurations\\AddSwagger.cs",
+              "ToolTip": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Api\\Configurations\\AddSwagger.cs",
+              "RelativeToolTip": "b2e.Api\\Configurations\\AddSwagger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T12:40:12.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "b2e.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Api\\appsettings.json",
+              "RelativeToolTip": "b2e.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-07T12:33:07.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AddMigrations.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Api\\Configurations\\AddMigrations.cs",
+              "RelativeDocumentMoniker": "b2e.Api\\Configurations\\AddMigrations.cs",
+              "ToolTip": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Api\\Configurations\\AddMigrations.cs",
+              "RelativeToolTip": "b2e.Api\\Configurations\\AddMigrations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T12:26:55.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AddDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Api\\Configurations\\AddDatabase.cs",
+              "RelativeDocumentMoniker": "b2e.Api\\Configurations\\AddDatabase.cs",
+              "ToolTip": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Api\\Configurations\\AddDatabase.cs",
+              "RelativeToolTip": "b2e.Api\\Configurations\\AddDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T12:26:41.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Api\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "b2e.Api\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Api\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "b2e.Api\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T15:41:52.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserForbiddenError.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.App\\Services\\Errors\\UserForbiddenError.cs",
+              "RelativeDocumentMoniker": "b2e.App\\Services\\Errors\\UserForbiddenError.cs",
+              "ToolTip": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.App\\Services\\Errors\\UserForbiddenError.cs",
+              "RelativeToolTip": "b2e.App\\Services\\Errors\\UserForbiddenError.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T15:37:08.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.App\\Services\\Users\\LoginUserService.cs",
+              "RelativeDocumentMoniker": "b2e.App\\Services\\Users\\LoginUserService.cs",
+              "ToolTip": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.App\\Services\\Users\\LoginUserService.cs",
+              "RelativeToolTip": "b2e.App\\Services\\Users\\LoginUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T15:18:54.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginUserReponse.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.App\\Contracts\\Responses\\Users\\LoginUserReponse.cs",
+              "RelativeDocumentMoniker": "b2e.App\\Contracts\\Responses\\Users\\LoginUserReponse.cs",
+              "ToolTip": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.App\\Contracts\\Responses\\Users\\LoginUserReponse.cs",
+              "RelativeToolTip": "b2e.App\\Contracts\\Responses\\Users\\LoginUserReponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T15:16:01.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "LoginUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.App\\Contracts\\Requests\\Users\\LoginUserRequest.cs",
+              "RelativeDocumentMoniker": "b2e.App\\Contracts\\Requests\\Users\\LoginUserRequest.cs",
+              "ToolTip": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.App\\Contracts\\Requests\\Users\\LoginUserRequest.cs",
+              "RelativeToolTip": "b2e.App\\Contracts\\Requests\\Users\\LoginUserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T15:15:14.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "NotFoundError.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.App\\Services\\Errors\\NotFoundError.cs",
+              "RelativeDocumentMoniker": "b2e.App\\Services\\Errors\\NotFoundError.cs",
+              "ToolTip": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.App\\Services\\Errors\\NotFoundError.cs",
+              "RelativeToolTip": "b2e.App\\Services\\Errors\\NotFoundError.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T15:13:54.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ILoginUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.App\\Services\\Interfaces\\Users\\ILoginUserService.cs",
+              "RelativeDocumentMoniker": "b2e.App\\Services\\Interfaces\\Users\\ILoginUserService.cs",
+              "ToolTip": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.App\\Services\\Interfaces\\Users\\ILoginUserService.cs",
+              "RelativeToolTip": "b2e.App\\Services\\Interfaces\\Users\\ILoginUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T15:13:08.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20250406150943_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Infra\\Migrations\\20250406150943_InitialCreate.cs",
+              "RelativeDocumentMoniker": "b2e.Infra\\Migrations\\20250406150943_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Infra\\Migrations\\20250406150943_InitialCreate.cs",
+              "RelativeToolTip": "b2e.Infra\\Migrations\\20250406150943_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T15:09:57.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Api\\Program.cs",
+              "RelativeDocumentMoniker": "b2e.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Api\\Program.cs",
+              "RelativeToolTip": "b2e.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T15:02:49.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AddApiVersioning.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Api\\Configurations\\AddApiVersioning.cs",
+              "RelativeDocumentMoniker": "b2e.Api\\Configurations\\AddApiVersioning.cs",
+              "ToolTip": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Api\\Configurations\\AddApiVersioning.cs",
+              "RelativeToolTip": "b2e.Api\\Configurations\\AddApiVersioning.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T15:02:34.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "b2e.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Api\\appsettings.Development.json",
+              "RelativeToolTip": "b2e.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-06T14:54:47.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ResultExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Shared\\Extensions\\ResultExtensions.cs",
+              "RelativeDocumentMoniker": "b2e.Shared\\Extensions\\ResultExtensions.cs",
+              "ToolTip": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Shared\\Extensions\\ResultExtensions.cs",
+              "RelativeToolTip": "b2e.Shared\\Extensions\\ResultExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T14:28:24.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "b2e.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Domain\\b2e.Domain.csproj",
+              "RelativeDocumentMoniker": "b2e.Domain\\b2e.Domain.csproj",
+              "ToolTip": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Domain\\b2e.Domain.csproj",
+              "RelativeToolTip": "b2e.Domain\\b2e.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-06T14:25:00.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "b2e.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e\\b2e.Api.csproj",
+              "RelativeDocumentMoniker": "b2e\\b2e.Api.csproj",
+              "ToolTip": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e\\b2e.Api.csproj",
+              "RelativeToolTip": "b2e\\b2e.Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-06T14:05:10.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AddDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e\\Configurations\\AddDatabase.cs",
+              "RelativeDocumentMoniker": "b2e\\Configurations\\AddDatabase.cs",
+              "ToolTip": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e\\Configurations\\AddDatabase.cs",
+              "RelativeToolTip": "b2e\\Configurations\\AddDatabase.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:54:11.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AddMigrations.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e\\Configurations\\AddMigrations.cs",
+              "RelativeDocumentMoniker": "b2e\\Configurations\\AddMigrations.cs",
+              "ToolTip": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e\\Configurations\\AddMigrations.cs",
+              "RelativeToolTip": "b2e\\Configurations\\AddMigrations.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:52:11.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "AddDependencies.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e\\Configurations\\AddDependencies.cs",
+              "RelativeDocumentMoniker": "b2e\\Configurations\\AddDependencies.cs",
+              "ToolTip": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e\\Configurations\\AddDependencies.cs",
+              "RelativeToolTip": "b2e\\Configurations\\AddDependencies.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:51:45.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Infra\\Database\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "b2e.Infra\\Database\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Infra\\Database\\UnitOfWork.cs",
+              "RelativeToolTip": "b2e.Infra\\Database\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:45:55.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Infra\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "b2e.Infra\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Infra\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "b2e.Infra\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:45:21.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Infra\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "b2e.Infra\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Infra\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "b2e.Infra\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:43:10.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Infra\\Repositories\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "b2e.Infra\\Repositories\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Infra\\Repositories\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "b2e.Infra\\Repositories\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:42:33.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Infra\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "b2e.Infra\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Infra\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "b2e.Infra\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:41:16.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "b2e.Infra.csproj",
+              "DocumentMoniker": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Infra\\b2e.Infra.csproj",
+              "RelativeDocumentMoniker": "b2e.Infra\\b2e.Infra.csproj",
+              "ToolTip": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Infra\\b2e.Infra.csproj",
+              "RelativeToolTip": "b2e.Infra\\b2e.Infra.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-06T13:38:17.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Infra\\Database\\Interfaces\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "b2e.Infra\\Database\\Interfaces\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Infra\\Database\\Interfaces\\IBaseRepository.cs",
+              "RelativeToolTip": "b2e.Infra\\Database\\Interfaces\\IBaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:36:08.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "OptionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Shared\\Extensions\\OptionExtensions.cs",
+              "RelativeDocumentMoniker": "b2e.Shared\\Extensions\\OptionExtensions.cs",
+              "ToolTip": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Shared\\Extensions\\OptionExtensions.cs",
+              "RelativeToolTip": "b2e.Shared\\Extensions\\OptionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:34:37.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ErrorCodes.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Shared\\Constants\\ErrorCodes.cs",
+              "RelativeDocumentMoniker": "b2e.Shared\\Constants\\ErrorCodes.cs",
+              "ToolTip": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Shared\\Constants\\ErrorCodes.cs",
+              "RelativeToolTip": "b2e.Shared\\Constants\\ErrorCodes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:34:16.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Error.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Shared\\Error.cs",
+              "RelativeDocumentMoniker": "b2e.Shared\\Error.cs",
+              "ToolTip": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Shared\\Error.cs",
+              "RelativeToolTip": "b2e.Shared\\Error.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:34:00.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Infra\\Database\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "b2e.Infra\\Database\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Infra\\Database\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "b2e.Infra\\Database\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:32:09.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "b2eContext.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Infra\\Database\\b2eContext.cs",
+              "RelativeDocumentMoniker": "b2e.Infra\\Database\\b2eContext.cs",
+              "ToolTip": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Infra\\Database\\b2eContext.cs",
+              "RelativeToolTip": "b2e.Infra\\Database\\b2eContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:31:13.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Infra\\Database\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "b2e.Infra\\Database\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Infra\\Database\\BaseRepository.cs",
+              "RelativeToolTip": "b2e.Infra\\Database\\BaseRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:31:07.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "b2e.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "b2e.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:23:41.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "b2e.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "b2e.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAArwB0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:23:26.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Domain\\Entities\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "b2e.Domain\\Entities\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e.Domain\\Entities\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "b2e.Domain\\Entities\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:22:58.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e\\Program.cs",
+              "RelativeDocumentMoniker": "b2e\\Program.cs",
+              "ToolTip": "C:\\Users\\Anderson\\OneDrive\\Workspace\\b2e-test\\b2e\\b2e\\Program.cs",
+              "RelativeToolTip": "b2e\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:18:36.234Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

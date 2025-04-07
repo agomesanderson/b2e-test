@@ -1,0 +1,12 @@
+C:\Users\Anderson\OneDrive\Workspace\b2e-test\b2e\b2e.Domain\bin\Debug\net8.0\b2e.Domain.deps.json
+C:\Users\Anderson\OneDrive\Workspace\b2e-test\b2e\b2e.Domain\bin\Debug\net8.0\b2e.Domain.dll
+C:\Users\Anderson\OneDrive\Workspace\b2e-test\b2e\b2e.Domain\bin\Debug\net8.0\b2e.Domain.pdb
+C:\Users\Anderson\OneDrive\Workspace\b2e-test\b2e\b2e.Domain\obj\Debug\net8.0\b2e.Domain.csproj.AssemblyReference.cache
+C:\Users\Anderson\OneDrive\Workspace\b2e-test\b2e\b2e.Domain\obj\Debug\net8.0\b2e.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anderson\OneDrive\Workspace\b2e-test\b2e\b2e.Domain\obj\Debug\net8.0\b2e.Domain.AssemblyInfoInputs.cache
+C:\Users\Anderson\OneDrive\Workspace\b2e-test\b2e\b2e.Domain\obj\Debug\net8.0\b2e.Domain.AssemblyInfo.cs
+C:\Users\Anderson\OneDrive\Workspace\b2e-test\b2e\b2e.Domain\obj\Debug\net8.0\b2e.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\OneDrive\Workspace\b2e-test\b2e\b2e.Domain\obj\Debug\net8.0\b2e.Domain.dll
+C:\Users\Anderson\OneDrive\Workspace\b2e-test\b2e\b2e.Domain\obj\Debug\net8.0\refint\b2e.Domain.dll
+C:\Users\Anderson\OneDrive\Workspace\b2e-test\b2e\b2e.Domain\obj\Debug\net8.0\b2e.Domain.pdb
+C:\Users\Anderson\OneDrive\Workspace\b2e-test\b2e\b2e.Domain\obj\Debug\net8.0\ref\b2e.Domain.dll

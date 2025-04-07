@@ -1,0 +1,65 @@
+.title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 16px;
+  }
+  
+  .toolbar {
+    display: flex;
+    justify-content: flex-start; /* Alinha os botões à esquerda */
+    align-items: center;
+    margin-bottom: 16px;
+    gap: 10px;
+  }
+  
+  .toolbar button {
+    padding: 8px 16px;
+    font-size: 14px;
+    border: none;
+    border-radius: 4px;
+    background-color: #0077cc;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .toolbar button:hover {
+    background-color: #005fa3;
+  }
+  
+  .product-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .product-table th,
+  .product-table td {
+    padding: 12px;
+    border: 1px solid #ccc;
+    text-align: left;
+  }
+  
+  .product-table th {
+    background-color: #f2f2f2;
+  }
+  
+  .center {
+    text-align: center;
+  }
+  
+  .product-row:hover {
+    background-color: #f9f9f9;
+    cursor: pointer;
+  }
+  
+  .delete-button {
+    background: none;
+    border: none;
+    color: #e60000;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .delete-button:hover {
+    color: #a60000;
+  }
+  

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "KmT4aVQMgdHCXuwCSlzBiud17IibWHWymlOZXvwb48Y=",
+  "Source": "b2e.Api",
+  "BasePath": "_content/b2e.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
